@@ -1,0 +1,23 @@
+# Ignorar puntos de control de Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Archivos de configuración de editores y entornos
+.vscode/
+.idea/
+
+# Entornos virtuales
+.venv/
+env/
+ENV/
+
+# Archivos de compilación y caché
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de sistema
+.DS_Store
+
+# Archivos de salida de notebooks
+*.ipynb_checkpoints/
