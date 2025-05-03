@@ -1,5 +1,6 @@
 # Ignorar puntos de control de Jupyter
 .ipynb_checkpoints/
+*.ipynb_checkpoints/
 */.ipynb_checkpoints/*
 
 # Archivos de configuración de editores y entornos
@@ -18,6 +19,3 @@ __pycache__/
 
 # Archivos de sistema
 .DS_Store
-
-# Archivos de salida de notebooks
-*.ipynb_checkpoints/
